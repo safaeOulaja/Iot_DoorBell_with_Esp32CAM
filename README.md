@@ -65,6 +65,3 @@ This project implements a smart door lock system using the ESP32-CAM, allowing u
 - Add more security features like facial recognition.
 - Add more functionalities.
 - Improve error handling for unstable Wi-Fi connections.
-
-## License
-This project is licensed under the MIT License.
