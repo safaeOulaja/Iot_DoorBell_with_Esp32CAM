@@ -7,16 +7,16 @@
 #include <ArduinoJson.h>
 #include <ThingSpeak.h>
 
-const char* ssid = "AndroidAP";  
-const char* password = "tygg3890";  
+const char* ssid = "";  //your ssid here
+const char* password = "";  //your wifi pswd here
 
 // Initialize Telegram BOT
-String chatId = "745092507";
+String chatId = "745092507"; 
 String BOTtoken = "6681815999:AAGefw78bIxBilX9NguYhzQWlxVbfsqMEUc";
 
 // ThingSpeak API Key
-const char* myWriteAPIKey = "C0585F2CHLUZT43W";
-unsigned long myChannelNumber = 2584453;
+const char* myWriteAPIKey = "C0585F2CHLUZT43W"; //your key here
+unsigned long myChannelNumber = 2584453; // your channel number here
 
 bool sendPhoto = false;
 
