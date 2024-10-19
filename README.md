@@ -19,8 +19,8 @@ This project implements a smart door lock system using the ESP32-CAM, allowing u
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/ESP32-CAM-Smart-Lock.git
-   cd ESP32-CAM-Smart-Lock
+   git clone https://github.com/safaeOulaja/Iot_DoorBell_with_Esp32CAM.git
+   cd Iot_DoorBell_with_Esp32CAM
    ```
 
 2. **Hardware Connections**:
